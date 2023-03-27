@@ -1,5 +1,5 @@
 # deckofcards
-An API to simulate a deck of cards
+Ez az An API to simulate a deck of cards
 
 The docs are on http://deckofcardsapi.com
 
